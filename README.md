@@ -30,4 +30,4 @@
 🔁 Update comes in future 
 
 
-🔗[Live Link](https://wonderful-sprinkles-649f5b.netlify.app/)
+🔗[Live Link](https://stalwart-kitten-8cf0f5.netlify.app/)
